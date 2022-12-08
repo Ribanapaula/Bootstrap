@@ -44,13 +44,13 @@
 
 ## Com Bootstrap
 
- <a class="btn btn-lg">Botão</a>
+- <a class="btn btn-lg">Botão</a>
 
 ## Sem Bootstrap
 
- <a class="botao botao-grande">Botão</a>
+- <a class="botao botao-grande">Botão</a>
 
- <style>
+- <style>
  html {
      font-size: 62.5% 
  }
