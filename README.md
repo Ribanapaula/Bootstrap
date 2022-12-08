@@ -78,7 +78,8 @@
  .botao:active { ... }
  .botao:visited { ... }
  
- </style>```
+ </style>
+ ```
 
 ## Componentes
 
